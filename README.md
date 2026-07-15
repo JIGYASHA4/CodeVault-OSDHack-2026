@@ -32,19 +32,19 @@ An Offline AI Coding Memory that automatically collects coding solutions from mu
      │               │                 │
      ▼               ▼                 ▼
 
-  Explain        Complexity           Tags
+   Explain        Complexity           Tags
 
      ▼               ▼                 ▼
 
-Generate README
+  Generate README
 
-Generate Notes
+  Generate Notes
 
-Generate Flashcards
+  Generate Flashcards
 
-Generate Interview Questions
+  Generate Interview Questions
 
-Generate Commit Message
+  Generate Commit Message
 
                      │
                      ▼
